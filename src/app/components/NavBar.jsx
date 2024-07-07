@@ -1,10 +1,7 @@
 import Link from "next/link"
 
 const links = [
-  {href:"/", text: "home"},
-  {href:"/", text: "home"},
-  {href:"/", text: "home"},
-  {href:"/", text: "home"},
+  {href:"/todo-list", text: "Todos"},
 ]
 
 const NavBar = () => {
